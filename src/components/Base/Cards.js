@@ -36,10 +36,34 @@ function Cards() {
               path='/products'
             />
             <CardItem
+                src='images/img-8.jpg'
+                text='Ride through the Sahara Desert on a guided camel tour'
+                label='Adrenaline'
+                path='/sign-up'
+            />
+            <CardItem
               src='images/img-8.jpg'
-              text='Ride through the Sahara Desert on a guided camel tour'
-              label='Adrenaline'
+              text='CONNECT FOUR'
+              label='Project 1 JAVASCRIPT'
               path='/sign-up'
+            />
+            <CardItem
+                src='images/img-8.jpg'
+                text='WEBSHOP'
+                label='Project 2 GRID'
+                path='/sign-up'
+            />
+            <CardItem
+                src='images/img-8.jpg'
+                text='PLATFORM GAME'
+                label='Project 3 JAVA'
+                path='/sign-up'
+            />
+            <CardItem
+                src='images/img-8.jpg'
+                text='WEBSITE SYMFONY & PHP'
+                label='Project 4'
+                path='/sign-up'
             />
           </ul>
         </div>
