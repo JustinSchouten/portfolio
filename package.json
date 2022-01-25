@@ -1,6 +1,6 @@
 {
-
-  "name": "portfolio Justin Schouten",
+  "homepage": "https://justinschouten.github.io/portfolio",
+  "name": "portfolio-Justin-Schouten",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -47,3 +47,4 @@
     "gh-pages": "^3.2.3"
   }
 }
+
