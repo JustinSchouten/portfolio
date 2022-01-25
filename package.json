@@ -1,6 +1,6 @@
 {
   "homepage": "https://justinschouten.github.io/portfolio",
-  "name": "portfolio-Justin-Schouten",
+  "name": "jms-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
